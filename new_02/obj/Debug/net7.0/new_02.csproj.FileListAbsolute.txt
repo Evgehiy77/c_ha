@@ -1,0 +1,14 @@
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.AssemblyInfoInputs.cache
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.AssemblyInfo.cs
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\Desktop\C#\new_02\bin\Debug\net7.0\new_02.exe
+C:\Users\ARDOR\Desktop\C#\new_02\bin\Debug\net7.0\new_02.deps.json
+C:\Users\ARDOR\Desktop\C#\new_02\bin\Debug\net7.0\new_02.runtimeconfig.json
+C:\Users\ARDOR\Desktop\C#\new_02\bin\Debug\net7.0\new_02.dll
+C:\Users\ARDOR\Desktop\C#\new_02\bin\Debug\net7.0\new_02.pdb
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.dll
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\refint\new_02.dll
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.pdb
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\new_02.genruntimeconfig.cache
+C:\Users\ARDOR\Desktop\C#\new_02\obj\Debug\net7.0\ref\new_02.dll
